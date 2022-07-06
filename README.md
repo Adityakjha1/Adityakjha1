@@ -23,3 +23,10 @@
 
 
 
+<p align="bottom">
+<a href="https://telegram.me/pythonxgamer"><img src="https://img.shields.io/badge/-pythonXgamer-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="right">
+<a href="https://telegram.me/zenxrobot"><img src="https://img.shields.io/badge/-ᴢᴇɴ%20ʙᴏᴛ-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
