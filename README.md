@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ᴀᴅɪᴛʏᴀ</h1>
-<h3 align="center">Noob Telegram bot developer</h3>
+<h3 align="center">ɴᴏᴏʙ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakjha1&label=Profile%20views&color=0e75b6&style=flat" alt="adityakjha1" /> </p>
+- ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴅᴇᴠᴇʟᴏᴘɪɴɢ [ᴢᴇɴ ʙᴏᴛ](t.me/zenxrobot)
 
-- 🔭 I’m currently working on [Zen bot](t.me/zenxrobot)
+- ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴘʏᴛʜᴏN**
 
-- 🌱 I’m currently learning **Python**
+- ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ [ᴘʏᴛʜᴏɴXɢᴀᴍᴇʀ](t.me/pythonxgamer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,8 +13,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakjha1&show_icons=true&locale=en&layout=compact" alt="adityakjha1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakjha1&show_icons=true&locale=en" alt="adityakjha1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakjha1&" alt="adityakjha1" /></p>
+
 
 
