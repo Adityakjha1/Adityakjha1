@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm ᴀᴅɪᴛʏᴀ</h1>
+<h1 align="center">Hello , I'm ᴀᴅɪᴛʏᴀ ᴊʜᴀ</h1>
 <h3 align="center">ɴᴏᴏʙ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
 
-- ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴅᴇᴠᴇʟᴏᴘɪɴɢ [ᴢᴇɴ ʙᴏᴛ](t.me/zenxrobot)
+- ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴅᴇᴠᴇʟᴏᴘɪɴɢ ᴢᴇɴ ʙᴏᴛ
 
 - ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴘʏᴛʜᴏN**
 
-- ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ [ᴘʏᴛʜᴏɴXɢᴀᴍᴇʀ](t.me/pythonxgamer)
+- ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴘʏᴛʜᴏɴXɢᴀᴍᴇʀ
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
