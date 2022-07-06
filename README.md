@@ -52,7 +52,12 @@ class 8th():
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us
 <p><a href="https://t.me/pythonxgamer"><img src="https://telegra.ph/file/435d20d223694a6dd0f0b.jpg" alt="Press to Takeoff" width="340px"></a></p>
 
-[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40our_bot_support&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dour_bot_support&longCache=true%22)](https://t.me/zensupport)
-[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40Aditya&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%Aditya&longCache=true%22)](https://t.me/pythonxgamer)
-</details>
+ <p align="bottom"
+<a href="https://telegram.me/zensupport"><img src="https://img.shields.io/badge/-My%20bot%20support-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+<p align="bottom"
+<a href="https://telegram.me/pythonxgamer"><img src="https://img.shields.io/badge/%20Aditya-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+━━━━━━━━━━━━━━━━━━━━
 
