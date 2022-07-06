@@ -39,15 +39,5 @@ class 8th():
         ]
  ```
 <h1> <img src = "https://github.com/Adityakjha1/Adityakjha1/blob/master/resources/analytics.webp" width="57px"> ɴᴏᴏʙ ᴛɢ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ </h1>
-### ɢɪᴛʜᴜʙ sᴛᴀᴛɪsᴛɪᴄs
-<p align="center"><a href="https://github.com/Snehashish06"><img src="https://github-readme-stats.vercel.app/api?username=Adityakjha1&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Adityakjha1"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityakjha1&theme=radical&layout=compact"Adityakjha1
 
 
-<details>
-<summary>Contact Us</summary>
- 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>Contact Us
-<p><a href="https://t.me/zensupport"><img src="https://telegra.ph/file/435d20d223694a6dd0f0b.jpg" alt="Press to Takeoff" width="340px"></a></p>
-
-[![Group](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40zensupport&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F)
