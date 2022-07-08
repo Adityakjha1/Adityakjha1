@@ -30,3 +30,7 @@
 <p align="right">
 <a href="https://telegram.me/zenxrobot"><img src="https://img.shields.io/badge/-ᴢᴇɴ%20ʙᴏᴛ-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+# Pythonxgamer 🇮🇳 ❤️
+
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
