@@ -1,14 +1,14 @@
 <h1 align="center">Hello , I'm ᴀᴅɪᴛʏᴀ ᴊʜᴀ</h1>
 <h3 align="center">ɴᴏᴏʙ ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ ᴅᴇᴠᴇʟᴏᴘᴇʀ</h3>
 
-- ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴅᴇᴠᴇʟᴏᴘɪɴɢ ᴢᴇɴ ʙᴏᴛ
+- ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴅᴇᴠᴇʟᴏᴘɪɴɢ [ᴢᴇɴ ʙᴏᴛ](t.me/zenxrobot)
 
 - ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴘʏᴛʜᴏN**
 
-- ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴘʏᴛʜᴏɴXɢᴀᴍᴇʀ
+- ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ [ᴘʏᴛʜᴏɴXɢᴀᴍᴇʀ](t.me/pythonxgamer)
 
 <h3 align="left">Connect with me:</h3cen
-<p align="center"
+<p align="bottom"
 <a href="https://instagram.com/adityakjha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adityakjha1" height="30" width="40" /></a>
 </p>
 
@@ -30,7 +30,3 @@
 <p align="right">
 <a href="https://telegram.me/zenxrobot"><img src="https://img.shields.io/badge/-ᴢᴇɴ%20ʙᴏᴛ-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
-# Pythonxgamer 🇮🇳 ❤️
-
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
