@@ -30,3 +30,7 @@
 <p align="right">
 <a href="https://telegram.me/zenxrobot"><img src="https://img.shields.io/badge/-ᴢᴇɴ%20ʙᴏᴛ-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+
+<p align="left">
+<a href="https://telegram.me/zensupport"><img src="https://img.shields.io/badge/-sᴜᴘᴘᴏʀᴛ%20ɢʀᴏᴜᴘ-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
