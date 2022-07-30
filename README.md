@@ -5,7 +5,7 @@
 
 - ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ **ᴘʏᴛʜᴏN**
 
-- ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ [𝐀𝐃𝐈𝐓𝐘𝐀](t.me/pythonxgamer)
+- ᴍᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ [𝐀𝐃𝐈𝐓𝐘𝐀 𝐉𝐇𝐀](t.me/pythonxgamer)
 
 <h3 align="left">Connect with me:</h3cen
 <p align="bottom"
